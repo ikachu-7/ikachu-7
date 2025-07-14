@@ -1,4 +1,4 @@
-# Hi 👋, I'm Vivek Tiwari  
+# Hi 👋, I'm Vivek
 ### 🚀 Passionate Backend Developer | DevOps Learner | Cloud Enthusiast | AI/ML Explorer  
 
 🔭 I’m currently working on **DevOps pipelines** and **Spring Boot microservices** with a focus on **cloud-native backend systems**.  
